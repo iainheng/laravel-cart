@@ -31,13 +31,5 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
-        "laravel": {
-            "providers": [
-                "Nextbyte\\Cart\\CartServiceProvider"
-            ],
-            "aliases": {
-                "Cart": "Nextbyte\\Cart\\Facades\\Cart"
-            }
-        }
     }
 }
