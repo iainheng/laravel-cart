@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NextByte\\Cart\\": "src/"
+            "Nextbyte\\Cart\\": "src/"
         }
     },
     "autoload-dev": {
